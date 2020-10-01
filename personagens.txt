@@ -4,3 +4,4 @@ Vader
 mandalorian
 luck
 Leia
+stormtropper
