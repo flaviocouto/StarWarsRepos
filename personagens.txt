@@ -5,3 +5,5 @@ mandalorian
 luck
 Leia
 stormtropper
+shubaka
+
